@@ -1,7 +1,7 @@
 $(document).ready(function(){
  
 //When script loads
-API.sendChat("Fan for fan . Quem virar meu fan, viro imediatamente seu fan!")
+API.sendChat("Fan for fan . Quem virar meu fan, viro imediatamente seu fan!:v:")
 $('#button-vote-positive').click();
  
 //global var
